@@ -47,6 +47,15 @@
   </url>
   
   <url>
+    <loc>https://planoqualitylifebrasil.com.br/telepsicologia.html</loc>
+    
+    <lastmod>2022-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://planoqualitylifebrasil.com.br/central-de-ajuda.html</loc>
     
     <lastmod>2022-09-06</lastmod>
@@ -58,7 +67,7 @@
 
   <url>
     <loc>https://planoqualitylifebrasil.com.br/</loc>
-    <lastmod>2022-11-07</lastmod>
+    <lastmod>2022-11-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
